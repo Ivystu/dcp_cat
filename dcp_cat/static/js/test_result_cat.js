@@ -121,7 +121,7 @@ if (reversed == null) { reversed = false; }
 		var _this = this;
 		
 		_this.golist_btn.on('click', function(){
-			location.href="https://dcp-test.vercel.app/dcp_test/list_dog/";
+			location.href="https://dcp-test.vercel.app/dcp_test/list_cat/";
 		});
 	}
 
